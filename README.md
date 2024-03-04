@@ -15,6 +15,7 @@ I'm Alex-Stefan Albu, a passionate Mobile Applications Developer with a focus on
 - Swift Programming
 - Ionic Framework
 - Cross-platform Development
+- React Native Framework
 
 📫 **How to Reach Me:**
 - [Business Email Address](alexstefanalbu@gmail.com)
