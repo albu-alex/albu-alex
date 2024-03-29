@@ -1,14 +1,14 @@
 ### Hello! 👋
 
-I'm Alex-Stefan Albu, a passionate Mobile Applications Developer with a focus on Swift and Ionic.
+I'm Alex-Stefan Albu, a passionate Mobile Applications Developer with a focus on Swift, React Native and Ionic.
 
 🚀 **About Me:**
-- 💻 I specialize in Swift for robust iOS applications and Ionic for cross-platform mobile development.
+- 💻 I specialize in Swift for robust iOS applications and Ionic/React Native for cross-platform mobile development.
 - 🌱 I'm constantly learning and exploring new technologies to stay at the cutting edge of mobile app development.
 - 🔧 My goal is to craft versatile and engaging applications that exceed user expectations.
 
 👯 **Collaboration:**
-- I'm open to collaborating on interesting mobile app projects, especially those involving Swift and Ionic.
+- I'm open to collaborating on interesting mobile app projects, especially those involving Swift, React Native and Ionic.
 
 💬 **Ask Me About:**
 - Mobile App Development
